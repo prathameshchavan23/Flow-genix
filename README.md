@@ -26,7 +26,7 @@ This repository contains the source code for a React-based website project. The 
 
 ## 🌐 Live Demo
 
-🚀 [Check out the live demo here](#) *(https://flow-genix.netlify.app/)
+🚀 Check out the live demo here : https://flow-genix.netlify.app/
 
 ## 📜 License
 
